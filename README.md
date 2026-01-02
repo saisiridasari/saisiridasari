@@ -82,16 +82,6 @@ I build production-grade web applications with clean architecture. My work focus
 - Git, GitHub, VS Code
 - Postman, npm, pip
 
-### 📊 Skill Level
-
-| Area | Proficiency |
-|------|-------------|
-| Frontend | ████████░░ 90% |
-| Backend | ████████░░ 85% |
-| Database | ████████░░ 80% |
-| DSA | ███████░░░ 70% |
-| ML | ██████░░░░ 60% |
-
 </td>
 </tr>
 </table>
