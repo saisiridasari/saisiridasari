@@ -1,188 +1,257 @@
 <div align="center">
-  
-<!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Sai%20Siri%20Dasari&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="120"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sai+Siri+Dasari;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
-<!-- Animated Typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Welcome+to+my+Digital+Space+%F0%9F%9A%80;Building+Scalable+Web+Applications;Exploring+AI+%2B+Machine+Learning" alt="Typing SVG" />
-</div>
-
-<br>
-
-<!-- Colorful Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<br>
-
-👋 Hi! I'm **Sai Siri Dasari**, a Full Stack Developer and CSE student at SR University.
-
-💡 I build **meaningful applications** that solve real-world problems using AI and modern web technologies.
-
-🎯 Currently mastering **Software Architecture** and **Machine Learning** while creating scalable full-stack solutions.
-
-```javascript
-const saiSiri = {
-    pronouns: "she/her",
-    location: "Warangal, Telangana",
-    education: "SR University | CSE 3rd Year",
-    learning: ["Design Patterns", "System Architecture", "ML"],
-    building: ["E-commerce"],
-    openTo: ["Collaborations", "Open Source", "AI/ML Projects"]
-};
-```
-
-<br clear="right"/>
-
-<!-- Colorful Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
-
-<div align="center">
-
-### Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 
-### Backend & Database
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <a href="https://github.com/saisiridasari">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=flat" />
+  </a>
+  <a href="https://www.linkedin.com/in/sai-siri-dasari-698300344/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/dasari_saisiri/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:dasarisaisiri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+![](https://komarev.com/ghpvc/?username=saisiridasari&style=flat&color=3B82F6)
 
 </div>
 
-<!-- Colorful Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> GitHub Analytics
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saisiridasari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=F97316&text_color=C9D1D9&ring_color=3B82F6" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saisiridasari&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6" />
-</p>
+## 👋 About Me
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisiridasari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=saisiridasari&bg_color=0D1117&color=3B82F6&line=F97316&point=FFFFFF&area=true&hide_border=true" />
-</p>
+**🎓 3rd Year CSE Student** at SR University  
+**📍 Based in** Warangal, Telangana
 
-<!-- Colorful Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+I build production-grade web applications with clean architecture. My work focuses on creating scalable, maintainable solutions that solve real problems.
 
-## 💼 Project Showcase
+### 🚀 Currently
 
-<details open>
-<summary><b>🎯 Resume Analyzer</b></summary>
-<br>
-AI-powered application that analyzes resumes and provides insights using machine learning
-<br><br>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></code>
-</details>
+- 💻 Building an E-commerce Platform
+- 📚 Learning System Design & ML
+- 🔍 Open to internships
+- 🧩 Active on LeetCode
 
-<details>
-<summary><b>🏥 DocTime</b></summary>
-<br>
-Full-stack doctor appointment booking system with real-time availability
-<br><br>
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"></code>
-</details>
+### 🧠 Engineering Mindset
 
-<details>
-<summary><b>🛒 E-Commerce Platform</b></summary>
-<br>
-Complete online shopping solution with cart management and payment integration
-<br><br>
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"></code>
-</details>
+*"Code is written to last, not just to work."*
 
-<details>
-<summary><b>🎮 Sudoku Game</b></summary>
-<br>
-Interactive puzzle game with multiple difficulty levels
-<br><br>
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></code>
-</details>
+-  Clean architecture first
+-  Scalability over complexity
+-  Real problems, real solutions
 
-<!-- Colorful Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</td>
+<td width="50%" valign="top">
 
-## 💻 LeetCode Journey
+## 🛠️ Technical Skills
+
+**⚡ Frontend Development**
+- React.js & JavaScript (ES6+)
+- HTML5, CSS3, Tailwind CSS
+- Responsive & Modern UI
+
+**🔧 Backend Development**
+- Python & Flask
+- Node.js & RESTful APIs
+- Authentication & Security
+
+**💾 Database & Tools**
+- MongoDB
+- Git, GitHub, VS Code
+- Postman, npm, pip
+
+### 📊 Skill Level
+
+| Area | Proficiency |
+|------|-------------|
+| Frontend | ████████░░ 90% |
+| Backend | ████████░░ 85% |
+| Database | ████████░░ 80% |
+| DSA | ███████░░░ 70% |
+| ML | ██████░░░░ 60% |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💼 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Resume Analyzer
+**AI-powered recruitment tool**
+
+Intelligent system that analyzes resumes using NLP and matches candidates to job descriptions.
+
+**🔧 Stack:** `Python` `Flask` `NLP` `JavaScript` `HTML/CSS`
+
+**✨ Features:**
+-  Automatic skill extraction
+-  Education & experience parsing
+-  Job-resume matching algorithm
+
+[View Project →](https://github.com/saisiridasari/resume-analyzer-backend)
+
+---
+
+### 🛒 E-Commerce Platform
+**Full-stack shopping solution**
+
+Complete online store with payment integration, inventory management, and admin dashboard.
+
+**🔧 Stack:** `React` `Flask` `MongoDB` `TailwindCSS`
+
+**✨ Features:**
+-  Advanced search & filtering
+-  Secure payment gateway
+-  Real-time inventory tracking
+
+[View Project →](https://github.com/saisiridasari/E-Commerce-Project)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 DocTime
+**Healthcare appointment system**
+
+Real-time doctor appointment booking platform with patient management.
+
+**🔧 Stack:** `React` `Flask` `JavaScript` `Python`
+
+**✨ Features:**
+-  Real-time slot availability
+-  Patient-doctor messaging
+-  Responsive across devices
+
+[View Project →](https://github.com/saisiridasari/docTime-fullstack)
+
+---
+
+### 🎮 Sudoku Game
+**Interactive puzzle platform**
+
+Browser-based game with multiple difficulty levels and intelligent hint system.
+
+**🔧 Stack:** `React` `JavaScript` `Python` `MongoDB`
+
+**✨ Features:**
+-  Smart hint algorithm
+-  Progress tracking
+-  Multiple difficulty modes
+
+[View Project →](https://github.com/saisiridasari/Sudoku-Game)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saisiridasari&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=333" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saisiridasari&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=333" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisiridasari&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=333" width="40%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💻 Competitive Programming
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/dasari_saisiri?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/dasari_saisiri?theme=light&font=Karma&ext=contest" width="50%"/>
 </div>
 
-<!-- Colorful Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📬 Connect With Me
+## 🤝 Open to Opportunities
+
+**🔍 Seeking:**
+
+-  Software Engineering Internships
+-  AI/ML Roles
+-  Open Source Contributions
+-  Collaborative Projects
+
+**✅ Available for:**
+
+-  Full-time internships (Summer 2026)
+-  Part-time remote work
+-  Freelance projects
+-  Technical collaborations
+
+</td>
+<td width="50%" valign="top">
+
+## 📬 Let's Connect
+
+**📧 Email**  
+dasarisaisiri@gmail.com
+
+**📍 Location**  
+Warangal, Telangana, India
+
+**👤 Pronouns**  
+she/her
+
+**🔗 Links**  
+[Portfolio](https://github.com/saisiridasari/Portfolio-new) • [LinkedIn](https://www.linkedin.com/in/sai-siri-dasari-698300344/) • [LeetCode](https://leetcode.com/u/dasari_saisiri/)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisiridasari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-siri-dasari-698300344/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/dasari_saisiri/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/saisiridasari/Portfolio-new)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasarisaisiri@gmail.com)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing;Open+to+collaborations" alt="Typing SVG" />
 
 </div>
-
-<div align="center">
-  
-### Profile Views Counter
-
-<img src="https://komarev.com/ghpvc/?username=saisiridasari&style=for-the-badge&color=3B82F6" alt="Profile views"/>
-
-</div>
-
-<!-- Colorful Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
-
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer"/>
