@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="120"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sai+Siri+Dasari;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sai+Siri+Reddy+Dasari;Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -12,12 +12,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
 </p>
 
 <p>
   <a href="https://github.com/saisiridasari">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=flat" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sai-siri-dasari-698300344/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
@@ -42,45 +42,52 @@
 
 ## 👋 About Me
 
-**🎓 3rd Year CSE Student** at SR University  
-**📍 Based in** Warangal, Telangana
+🎓 **3rd Year CSE Student** at SR University  
+📍 **Based in** Hanamkonda, Telangana
 
-I build production-grade web applications with clean architecture. My work focuses on creating scalable, maintainable solutions that solve real problems.
+I am an aspiring Software Engineer passionate about AI, Machine Learning, and Full Stack Development. I enjoy building intelligent systems and scalable web applications that solve real-world problems.
 
 ### 🚀 Currently
 
-- 💻 Building an E-commerce Platform
-- 📚 Learning System Design & ML
-- 🔍 Open to internships
-- 🧩 Active on LeetCode
+- 💻 Building AI-powered applications
+- 📚 Learning System Design & Advanced ML
+- 🔍 Open to Software Engineering Internships
+- 🧩 Practicing DSA & Competitive Programming
 
-### 🧠 Engineering Mindset
+### 🧠 Interests
 
-*"Code is written to last, not just to work."*
-
--  Clean architecture first
--  Scalability over complexity
--  Real problems, real solutions
+- Artificial Intelligence
+- Machine Learning
+- NLP Applications
+- Full Stack Development
+- Problem Solving
 
 </td>
 <td width="50%" valign="top">
 
 ## 🛠️ Technical Skills
 
-**⚡ Frontend Development**
-- React.js & JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS
-- Responsive & Modern UI
+**💻 Languages**
+- Python
+- Java
+- SQL
+- JavaScript
 
-**🔧 Backend Development**
-- Python & Flask
-- Node.js & RESTful APIs
-- Authentication & Security
+**🌐 Web Technologies**
+- HTML5
+- CSS3
+- React.js
 
-**💾 Database & Tools**
+**⚙️ Backend & Databases**
+- Flask
+- Node.js
 - MongoDB
-- Git, GitHub, VS Code
-- Postman, npm, pip
+- MySQL
+
+**🧰 Tools**
+- Git & GitHub
+- VS Code
+- MongoDB Compass
 
 </td>
 </tr>
@@ -88,74 +95,96 @@ I build production-grade web applications with clean architecture. My work focus
 
 <br/>
 
-## 💼 Projects
+## 💼 Experience
+
+### 🚀 NLI for MongoDB
+**Hackathon Project | Jan 2026 - Feb 2026**
+
+Developed a full-stack system that converts natural language queries into MongoDB queries using a local LLM.
+
+**🔧 Stack:** `Node.js` `React` `MongoDB` `Ollama`
+
+**✨ Highlights**
+- Built a Node.js + Express backend for dynamic MongoDB query generation
+- Generated aggregation pipelines and filters automatically
+- Designed a React-based UI for plain English database querying
+
+---
+
+### 🤖 AI & ML Intern
+**AICTE | July 2024 - Sep 2024**
+
+Implemented and evaluated machine learning models for real-world applications using Amazon SageMaker.
+
+**✨ Highlights**
+- Worked on data preprocessing and model training
+- Evaluated ML model performance
+- Collaborated with teams to analyze complex datasets
+
+<br/>
+
+## 💻 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Resume Analyzer
-**AI-powered recruitment tool**
+### 🎯 ML-driven Resume Analyzer
+**AI-powered recruitment platform**
 
-Intelligent system that analyzes resumes using NLP and matches candidates to job descriptions.
+Developed a full-stack web application to analyze resumes and compute job match scores using machine learning models.
 
-**🔧 Stack:** `Python` `Flask` `NLP` `JavaScript` `HTML/CSS`
+**🔧 Stack:** `HTML` `CSS` `JavaScript` `Flask` `Machine Learning`
 
-**✨ Features:**
--  Automatic skill extraction
--  Education & experience parsing
--  Job-resume matching algorithm
-
-[View Project →](https://github.com/saisiridasari/resume-analyzer-backend)
+**✨ Features**
+- NLP-based skill extraction
+- Resume parsing & entity recognition
+- Automated job match scoring
 
 ---
 
-### 🛒 E-Commerce Platform
-**Full-stack shopping solution**
+### 🏥 Health Timeline Intelligence System
+**AI-powered clinical analytics platform**
 
-Complete online store with payment integration, inventory management, and admin dashboard.
+Built a healthcare analytics system to process patient medical reports and generate clinical timelines and risk insights.
 
-**🔧 Stack:** `React` `Flask` `MongoDB` `TailwindCSS`
+**🔧 Stack:** `MERN Stack` `NLP` `Clinical Analytics`
 
-**✨ Features:**
--  Advanced search & filtering
--  Secure payment gateway
--  Real-time inventory tracking
-
-[View Project →](https://github.com/saisiridasari/E-Commerce-Project)
+**✨ Features**
+- PDF medical report extraction
+- Clinical entity recognition
+- Risk scoring & recurrence analysis
+- Interactive dashboard visualization
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 DocTime
-**Healthcare appointment system**
+### 🚨 Hate Speech Identifier
+**NLP-based text classification system**
 
-Real-time doctor appointment booking platform with patient management.
+Developed a machine learning model to detect and categorize hate speech in textual data.
 
-**🔧 Stack:** `React` `Flask` `JavaScript` `Python`
+**🔧 Stack:** `Python` `Machine Learning` `NLP`
 
-**✨ Features:**
--  Real-time slot availability
--  Patient-doctor messaging
--  Responsive across devices
-
-[View Project →](https://github.com/saisiridasari/docTime-fullstack)
+**✨ Features**
+- Text preprocessing & tokenization
+- TF-IDF feature extraction
+- Classification model evaluation
 
 ---
 
-### 🎮 Sudoku Game
-**Interactive puzzle platform**
+### 📚 Coursework
 
-Browser-based game with multiple difficulty levels and intelligent hint system.
-
-**🔧 Stack:** `React` `JavaScript` `Python` `MongoDB`
-
-**✨ Features:**
--  Smart hint algorithm
--  Progress tracking
--  Multiple difficulty modes
-
-[View Project →](https://github.com/saisiridasari/Sudoku-Game)
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Artificial Intelligence
+- Machine Learning
+- NLP
+- Cloud Computing
+- DevOps with Full Stack Development
 
 </td>
 </tr>
@@ -189,58 +218,33 @@ Browser-based game with multiple difficulty levels and intelligent hint system.
 
 <br/>
 
-## 💻 Competitive Programming
+## 🏆 Certifications
 
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/dasari_saisiri?theme=light&font=Karma&ext=contest" width="50%"/>
-</div>
+- AWS Certified Cloud Practitioner – AWS
+- MongoDB Certified Associate Developer – MongoDB
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🏅 Achievements
 
-## 🤝 Open to Opportunities
+- Awarded for Academic Excellence in Computer Science (2024-2025)
+- Participated in National-level Hackathons
+- Attended CSI Technical Workshop
 
-**🔍 Seeking:**
+<br/>
 
--  Software Engineering Internships
--  AI/ML Roles
--  Open Source Contributions
--  Collaborative Projects
-
-**✅ Available for:**
-
--  Full-time internships (Summer 2026)
--  Part-time remote work
--  Freelance projects
--  Technical collaborations
-
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
 ## 📬 Let's Connect
 
-**📧 Email**  
-dasarisaisiri@gmail.com
+📧 **Email:** dasarisaisiri@gmail.com  
+📍 **Location:** Hanamkonda, Telangana, India  
 
-**📍 Location**  
-Warangal, Telangana, India
-
-**👤 Pronouns**  
-she/her
-
-**🔗 Links**  
-[Portfolio](https://github.com/saisiridasari/Portfolio-new) • [LinkedIn](https://www.linkedin.com/in/sai-siri-dasari-698300344/) • [LeetCode](https://leetcode.com/u/dasari_saisiri/)
-
-</td>
-</tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-siri-dasari-698300344/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/dasari_saisiri/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/saisiridasari)
 
 <br/>
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing;Open+to+collaborations" alt="Typing SVG" />
 
