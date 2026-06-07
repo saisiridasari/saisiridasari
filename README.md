@@ -85,7 +85,7 @@ A full-stack platform built around live collaboration: drag-and-drop Kanban boar
 
 `React` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `Socket.io`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logoColor=white)](ADD_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logoColor=white)](https://task-forge-dusky.vercel.app/)
 
 <br/>
 
@@ -95,7 +95,7 @@ A Flask web app that analyzes a resume against a job description and returns a m
 
 `Python` &nbsp; `Flask` &nbsp; `NLP` &nbsp; `Machine Learning` &nbsp; `JavaScript`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logoColor=white)](ADD_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logoColor=white)](https://resumeanalyzer-d2ke.onrender.com)
 
 <br/>
 
@@ -107,11 +107,6 @@ An AI-powered platform that processes patient medical reports to generate longit
 
 <br/>
 
-**Hate Speech Identifier** — NLP text classification
-
-A supervised model that detects and categorizes hate speech in text, with a pipeline covering preprocessing, tokenization, TF-IDF feature extraction, and evaluation.
-
-`Python` &nbsp; `scikit-learn` &nbsp; `NLP`
 
 ---
 
