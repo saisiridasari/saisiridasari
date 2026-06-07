@@ -1,263 +1,163 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="120"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sai%20Siri%20Reddy%20Dasari&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sai+Siri+Reddy+Dasari;Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Aspiring+Software+Engineer;AI+and+Machine+Learning+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/saisiridasari">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sai-siri-dasari-698300344/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/dasari_saisiri/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:dasarisaisiri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/saisiridasari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sai-siri-dasari-698300344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/dasari_saisiri/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:dasarisaisiri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=saisiridasari&style=flat&color=3B82F6)
+<img src="https://komarev.com/ghpvc/?username=saisiridasari&style=flat&color=3B82F6&label=Profile+Views" />
 
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## About
 
-## About Me
+I build intelligent systems and full-stack web applications — from NLP and clinical-analytics tools to real-time collaboration platforms. I am passionate about artificial intelligence, machine learning, and shipping software that solves real problems, and I am currently open to software engineering internships.
 
-**Third-year B.Tech CSE student** at SR University, Warangal
-**Based in** Hanamkonda, Telangana &nbsp;|&nbsp; **CGPA** 9.43 / 10
+**Third-year B.Tech in Computer Science and Engineering** at SR University, Warangal &nbsp;|&nbsp; CGPA 9.43 / 10 &nbsp;|&nbsp; Hanamkonda, Telangana
 
-I am an aspiring Software Engineer passionate about AI, Machine Learning, and Full Stack Development. I enjoy building intelligent systems and scalable web applications that solve real-world problems.
+---
 
-### Currently
+## Tech Stack
 
-- Building AI-powered applications
-- Learning System Design and Advanced ML
-- Open to Software Engineering Internships
-- Practicing DSA and Competitive Programming
-
-### Interests
-
-- Artificial Intelligence
-- Machine Learning
-- NLP Applications
-- Full Stack Development
-- Problem Solving
-
-</td>
-<td width="50%" valign="top">
-
-## Technical Skills
+<div align="center">
 
 **Languages**
-- Python
-- Java
-- SQL
-- JavaScript
 
-**Web Technologies**
-- HTML5
-- CSS3
-- React.js
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-**Backend & Databases**
-- Flask
-- Node.js
-- MongoDB
-- MySQL
+**Frontend**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+**Backend and Databases**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 **Tools**
-- Git & GitHub
-- VS Code
-- MongoDB Compass
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
-<br/>
+</div>
+
+---
 
 ## Experience
 
-### NLI for MongoDB
-**Hackathon Project | Jan 2026 - Feb 2026**
+**NLI for MongoDB** &nbsp;·&nbsp; Hackathon Project &nbsp;·&nbsp; Jan 2026 – Feb 2026
 
-Developed a full-stack system that converts natural language queries into MongoDB queries using a local LLM.
+A full-stack system that converts natural-language questions into MongoDB queries using a local LLM. The Node.js and Express backend generates dynamic filters and aggregation pipelines, and a React interface lets users query in plain English and view structured results.
 
-**Stack:** `Node.js` `React` `MongoDB` `Ollama`
-
-**Highlights**
-- Built a Node.js + Express backend for dynamic MongoDB query generation
-- Generated aggregation pipelines and filters automatically
-- Designed a React-based UI for plain English database querying
-
----
-
-### AI & ML Intern
-**AICTE | July 2024 - Sep 2024**
-
-Implemented and evaluated machine learning models for real-world applications using Amazon SageMaker.
-
-**Highlights**
-- Worked on data preprocessing and model training
-- Evaluated ML model performance
-- Collaborated with teams to analyze complex datasets
+`Node.js` &nbsp; `React` &nbsp; `MongoDB` &nbsp; `Ollama`
 
 <br/>
 
-## Projects
+**AI and ML Intern** &nbsp;·&nbsp; AICTE &nbsp;·&nbsp; Jul 2024 – Sep 2024
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Implemented and evaluated machine learning models for real-world applications on Amazon SageMaker, with hands-on work in data preprocessing, model training, and performance analysis across complex datasets.
 
-### TaskForge
-**Real-time MERN project management platform**
-
-Built a full-stack project management platform with real-time collaboration, Kanban boards, and no-code automation.
-
-**Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.io`
-
-**Features**
-- Drag-and-drop Kanban boards with live sync
-- File attachments, avatars, and activity log
-- Automation rules and calendar view
-
-**Live demo:** ADD_LINK
+`Amazon SageMaker` &nbsp; `Python` &nbsp; `Machine Learning`
 
 ---
 
-### Health Timeline Intelligence System
-**AI-powered clinical analytics platform**
+## Featured Projects
 
-Built a healthcare analytics system to process patient medical reports and generate clinical timelines and risk insights.
+**TaskForge** — Real-time MERN project management platform
 
-**Stack:** `MERN Stack` `NLP` `Clinical Analytics`
+A full-stack platform built around live collaboration: drag-and-drop Kanban boards that sync across users over Socket.io, file attachments, an activity log, a calendar view, and no-code automation rules.
 
-**Features**
-- PDF medical report extraction
-- Clinical entity recognition
-- Risk scoring & recurrence analysis
-- Interactive dashboard visualization
+`React` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `MongoDB` &nbsp; `Socket.io`
 
-</td>
-<td width="50%" valign="top">
+[![Live Demo](https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logoColor=white)](ADD_LINK)
 
-### ML-driven Resume Analyzer
-**AI-powered recruitment platform**
+<br/>
 
-Developed a full-stack web application to analyze resumes and compute job match scores using machine learning models.
+**ML-driven Resume Analyzer** — AI-powered recruitment tool
 
-**Stack:** `HTML` `CSS` `JavaScript` `Flask` `Machine Learning`
+A Flask web app that analyzes a resume against a job description and returns a match score with concrete improvement suggestions, using NLP for skill extraction, entity recognition, and resume parsing.
 
-**Features**
-- NLP-based skill extraction
-- Resume parsing & entity recognition
-- Automated job match scoring
+`Python` &nbsp; `Flask` &nbsp; `NLP` &nbsp; `Machine Learning` &nbsp; `JavaScript`
 
-**Live demo:** ADD_LINK
+[![Live Demo](https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logoColor=white)](ADD_LINK)
+
+<br/>
+
+**Health Timeline Intelligence System** — Clinical analytics platform
+
+An AI-powered platform that processes patient medical reports to generate longitudinal timelines, clinical summaries, and risk insights, with modules for PDF extraction, entity recognition, trend and recurrence detection, and risk scoring.
+
+`MERN` &nbsp; `NLP` &nbsp; `Clinical Analytics`
+
+<br/>
+
+**Hate Speech Identifier** — NLP text classification
+
+A supervised model that detects and categorizes hate speech in text, with a pipeline covering preprocessing, tokenization, TF-IDF feature extraction, and evaluation.
+
+`Python` &nbsp; `scikit-learn` &nbsp; `NLP`
 
 ---
 
-### Hate Speech Identifier
-**NLP-based text classification system**
+## Coursework
 
-Developed a machine learning model to detect and categorize hate speech in textual data.
+Data Structures and Algorithms &nbsp;·&nbsp; Design and Analysis of Algorithms &nbsp;·&nbsp; Object-Oriented Programming &nbsp;·&nbsp; Database Management Systems &nbsp;·&nbsp; Operating Systems &nbsp;·&nbsp; Computer Networks &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Artificial Intelligence &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Natural Language Processing &nbsp;·&nbsp; Cloud Computing &nbsp;·&nbsp; DevOps with Full Stack Development &nbsp;·&nbsp; Competitive Programming
 
-**Stack:** `Python` `Machine Learning` `NLP`
+---
 
-**Features**
-- Text preprocessing & tokenization
-- TF-IDF feature extraction
-- Classification model evaluation
+## GitHub Stats
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<div align="center">
 
-### Coursework
-
-Data Structures and Algorithms &middot; Design and Analysis of Algorithms &middot; Object-Oriented Programming &middot; Database Management Systems &middot; Operating Systems &middot; Computer Networks &middot; Software Engineering &middot; Artificial Intelligence &middot; Machine Learning &middot; Natural Language Processing &middot; Cloud Computing &middot; DevOps with Full Stack Development &middot; Competitive Programming
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=saisiridasari&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=808080" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saisiridasari&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" height="170" />
 
 <br/>
 
-## GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisiridasari&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=808080" width="40%" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saisiridasari&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=333" width="100%"/>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saisiridasari&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=333" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisiridasari&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=333" width="40%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 ## Certifications
 
 - AWS Certified Cloud Practitioner — Credly, March 2026
 - MongoDB Certified Associate Developer — Credly, April 2026
 
-<br/>
-
 ## Achievements
 
-- Awarded for Academic Excellence in Computer Science (2024-2025)
-- Participated in National-level Hackathons
-- Attended CSI Technical Workshop
+- Awarded for Academic Excellence in Computer Science (2024–2025)
+- Participated in national-level hackathons and attended a CSI technical workshop
 
-<br/>
+---
 
 <div align="center">
 
-## Let's Connect
+### Let's Connect
 
-**Email:** dasarisaisiri@gmail.com
-**Location:** Hanamkonda, Telangana, India
+<a href="https://www.linkedin.com/in/sai-siri-dasari-698300344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/dasari_saisiri/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:dasarisaisiri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-siri-reddy-dasari-698300344/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/dasari_saisiri/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/saisiridasari)
+<br/><br/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing;Open+to+collaborations" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 
 </div>
