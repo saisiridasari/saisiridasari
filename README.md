@@ -107,6 +107,17 @@ An AI-powered platform that processes patient medical reports to generate longit
 
 <br/>
 
+**RAG-Based Document Intelligence Chatbot** — Semantic Document Retrieval System
+
+An AI-powered chatbot that processes uploaded documents to generate source-grounded responses, with modules for OCR extraction, semantic indexing, vector search, and LLM-powered answer generation with ~80% retrieval accuracy.
+
+`Python`   `FastAPI`   `FAISS`   `Llama 3`   `RAG`
+
+<br/>
+
+
+
+
 
 ---
 
