@@ -147,7 +147,7 @@ Data Structures and Algorithms &nbsp;·&nbsp; Design and Analysis of Algorithms 
 
 ### Let's Connect
 
-<a href="https://www.linkedin.com/in/sai-siri-dasari-698300344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/sai-siri-dasari-698300344/](https://www.linkedin.com/in/sai-siri-reddy-dasari-698300344/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/dasari_saisiri/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:dasarisaisiri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
